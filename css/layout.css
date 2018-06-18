@@ -1,0 +1,63 @@
+html,body{width:100%; height:100%;margin:0;}
+img{border:none;}
+ul,li,dd,dl{margin:0; padding:0; list-style: none;}
+button,select,input,div{-webkit-tap-highlight-color:rgba(255,0,0,0);outline: none;border: none;}
+.no{display:none;}
+.ab{position:absolute;}
+.ab00{position:absolute;left: 0;top:0;}
+.ab01{position:absolute;left: 0;bottom:0;}
+.ab10{position:absolute;right: 0;top:0;}
+.ab11{position:absolute;right: 0;bottom:0;}
+.re{position:relative;}
+.hand{cursor:pointer;}
+.fl{float: left;}
+.fr{float: right;}
+.ofh{overflow: hidden;}
+.ofhtx{overflow-y:hidden; overflow-x:auto; -webkit-overflow-scrolling:touch; -moz-overflow-scrolling:touch;-ms-overflow-scrolling:touch;}
+.ofhty{overflow-x:hidden; overflow-y:auto; -webkit-overflow-scrolling:touch; -moz-overflow-scrolling:touch;-ms-overflow-scrolling:touch;}
+.full00{width:100%; height: 100%; top:0; left: 0;}
+.w100{width: 100%;}
+.h100{height: 100%;}
+.op0{opacity: 0;}
+.op05{opacity: 0.5;}
+.btn05{background: rgba(0,255,0,0.5);}
+
+.body{width:100%;height: 100%;}
+.box{width: 750px;height: 1206px;top: 0;left: 50%;margin-left: -375px;background: #fff;}
+
+input{width: 600px;height: 80px;margin: 50px 75px;border: 2px solid #333;border-radius: 30px;font-size: 30px;line-height: 80px;}
+.commit{width: 200px;height: 50px;border-radius: 30px;background: #ff0000;font-size: 30px;color: #fff;margin: 50px 275px;}
+
+
+
+.dela01{-webkit-animation-delay: 0.1s !important;-moz-animation-delay: 0.1s !important;-ms-animation-delay: 0.1s !important;animation-delay: 0.1s !important;}
+.dela02{-webkit-animation-delay: 0.2s !important;-moz-animation-delay: 0.2s !important;-ms-animation-delay: 0.2s !important;animation-delay: 0.2s !important;}
+.dela03{-webkit-animation-delay: 0.3s !important;-moz-animation-delay: 0.3s !important;-ms-animation-delay: 0.3s !important;animation-delay: 0.3s !important;}
+.dela04{-webkit-animation-delay: 0.4s !important;-moz-animation-delay: 0.4s !important;-ms-animation-delay: 0.4s !important;animation-delay: 0.4s !important;}
+.dela05{-webkit-animation-delay: 0.5s !important;-moz-animation-delay: 0.5s !important;-ms-animation-delay: 0.5s !important;animation-delay: 0.5s !important;}
+.dela06{-webkit-animation-delay: 0.6s !important;-moz-animation-delay: 0.6s !important;-ms-animation-delay: 0.6s !important;animation-delay: 0.6s !important;}
+.dela07{-webkit-animation-delay: 0.7s !important;-moz-animation-delay: 0.7s !important;-ms-animation-delay: 0.7s !important;animation-delay: 0.7s !important;}
+.dela08{-webkit-animation-delay: 0.8s !important;-moz-animation-delay: 0.8s !important;-ms-animation-delay: 0.8s !important;animation-delay: 0.8s !important;}
+.dela09{-webkit-animation-delay: 0.9s !important;-moz-animation-delay: 0.9s !important;-ms-animation-delay: 0.9s !important;animation-delay: 0.9s !important;}
+.dela10{-webkit-animation-delay: 1s !important;-moz-animation-delay: 1s !important;-ms-animation-delay: 1s !important;animation-delay: 1s !important;}
+.dela11{-webkit-animation-delay: 1.1s !important;-moz-animation-delay: 1.1s !important;-ms-animation-delay: 1.1s !important;animation-delay: 1.1s !important;}
+.dela12{-webkit-animation-delay: 1.2s !important;-moz-animation-delay: 1.2s !important;-ms-animation-delay: 1.2s !important;animation-delay: 1.2s !important;}
+.dela13{-webkit-animation-delay: 1.3s !important;-moz-animation-delay: 1.3s !important;-ms-animation-delay: 1.3s !important;animation-delay: 1.3s !important;}
+.dela14{-webkit-animation-delay: 1.4s !important;-moz-animation-delay: 1.4s !important;-ms-animation-delay: 1.4s !important;animation-delay: 1.4s !important;}
+.dela15{-webkit-animation-delay: 1.5s !important;-moz-animation-delay: 1.5s !important;-ms-animation-delay: 1.5s !important;animation-delay: 1.5s !important;}
+.dela16{-webkit-animation-delay: 1.6s !important;-moz-animation-delay: 1.6s !important;-ms-animation-delay: 1.6s !important;animation-delay: 1.6s !important;}
+.dela17{-webkit-animation-delay: 1.7s !important;-moz-animation-delay: 1.7s !important;-ms-animation-delay: 1.7s !important;animation-delay: 1.7s !important;}
+.dela18{-webkit-animation-delay: 1.8s !important;-moz-animation-delay: 1.8s !important;-ms-animation-delay: 1.8s !important;animation-delay: 1.8s !important;}
+.dela19{-webkit-animation-delay: 1.9s !important;-moz-animation-delay: 1.9s !important;-ms-animation-delay: 1.9s !important;animation-delay: 1.9s !important;}
+.dela20{-webkit-animation-delay: 2s !important;-moz-animation-delay: 2s !important;-ms-animation-delay: 2s !important;animation-delay: 2s !important;}
+.dela21{-webkit-animation-delay: 2.1s !important;-moz-animation-delay: 2.1s !important;-ms-animation-delay: 2.1s !important;animation-delay: 2.1s !important;}
+.dela22{-webkit-animation-delay: 2.2s !important;-moz-animation-delay: 2.2s !important;-ms-animation-delay: 2.2s !important;animation-delay: 2.2s !important;}
+.dela23{-webkit-animation-delay: 2.3s !important;-moz-animation-delay: 2.3s !important;-ms-animation-delay: 2.3s !important;animation-delay: 2.3s !important;}
+.dela24{-webkit-animation-delay: 2.4s !important;-moz-animation-delay: 2.4s !important;-ms-animation-delay: 2.4s !important;animation-delay: 2.4s !important;}
+.dela25{-webkit-animation-delay: 2.5s !important;-moz-animation-delay: 2.5s !important;-ms-animation-delay: 2.5s !important;animation-delay: 2.5s !important;}
+.dela26{-webkit-animation-delay: 2.6s !important;-moz-animation-delay: 2.6s !important;-ms-animation-delay: 2.6s !important;animation-delay: 2.6s !important;}
+.dela27{-webkit-animation-delay: 2.7s !important;-moz-animation-delay: 2.7s !important;-ms-animation-delay: 2.7s !important;animation-delay: 2.7s !important;}
+.dela28{-webkit-animation-delay: 2.8s !important;-moz-animation-delay: 2.8s !important;-ms-animation-delay: 2.8s !important;animation-delay: 2.8s !important;}
+.dela29{-webkit-animation-delay: 2.9s !important;-moz-animation-delay: 2.9s !important;-ms-animation-delay: 2.9s !important;animation-delay: 2.9s !important;}
+.dela30{-webkit-animation-delay: 3s !important;-moz-animation-delay: 3s !important;-ms-animation-delay: 3s !important;animation-delay: 3s !important;}
+.dela50{-webkit-animation-delay: 5s !important;-moz-animation-delay: 5s !important;-ms-animation-delay: 5s !important;animation-delay: 5s !important;}
